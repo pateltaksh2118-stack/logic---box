@@ -15,6 +15,10 @@ This is a Python project for generating patterns and analyzing numbers.
 
 ## How to Run
 
-Run the Python file:
+1. Make sure you have **Python 3.x** installed on your system.
+2. Clone or download this repository:
+   ```bash
+   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
 # logic-box
 this python program called pattern generator and number analyzer.
+
